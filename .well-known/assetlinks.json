@@ -1,13 +1,12 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.veshikov.yourfly",
-        "sha256_cert_fingerprints": [
-          "21:30:6E:FF:34:C3:E2:05:33:6C:A5:E7:74:21:59:F4:ED:0C:2E:C1:36:4C:D7:10:DF:17:1C:61:CB:37:28:34" 
-        ]
-      }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.veshikov.yourfly",
+      "sha256_cert_fingerprints": [
+        "21:30:6E:FF:34:C3:E2:05:33:6C:A5:E7:74:21:59:F4:ED:0C:2E:C1:36:4C:D7:10:DF:17:1C:61:CB:37:28:34"
+      ]
     }
-  ]
-  
+  }
+]
